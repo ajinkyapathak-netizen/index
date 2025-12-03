@@ -1,2 +1,3 @@
 # index
-a simple html program for it's topics understanding.
+a basic html program.
+Author - Ajinkya.
